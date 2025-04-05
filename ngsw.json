@@ -1,0 +1,95 @@
+{
+  "configVersion": 1,
+  "timestamp": 1743860139900,
+  "index": "/index.html",
+  "assetGroups": [
+    {
+      "name": "app",
+      "installMode": "prefetch",
+      "updateMode": "prefetch",
+      "cacheQueryOptions": {
+        "ignoreVary": true
+      },
+      "urls": [
+        "/favicon.ico",
+        "/index.html",
+        "/main.dddbf622e7c186d8.js",
+        "/manifest.webmanifest",
+        "/node_modules_angular_animations_fesm2022_browser_mjs.a2777384aceb60a0.js",
+        "/node_modules_noble_curves_esm_secp256k1_js.8c6d273f8527b6e6.js",
+        "/polyfills.cbd7665b5a6e65be.js",
+        "/runtime.f73681d455d1285e.js",
+        "/styles.4c8a14933cfe7d40.css",
+        "/vendor.be8046d66b55b451.js"
+      ],
+      "patterns": []
+    },
+    {
+      "name": "assets",
+      "installMode": "lazy",
+      "updateMode": "prefetch",
+      "cacheQueryOptions": {
+        "ignoreVary": true
+      },
+      "urls": [
+        "/assets/3steps_to_mint.jpg",
+        "/assets/coin.png",
+        "/assets/logo.png",
+        "/assets/nftnow_icon_128.png",
+        "/assets/nftnow_icon_256.png",
+        "/assets/nftnow_icon_32.png",
+        "/assets/nftnow_icon_512.png",
+        "/assets/nftnow_icon_64.png",
+        "/assets/titre_appli.png",
+        "/assets/titre_appli_devnet.png",
+        "/assets/titre_appli_testnet.png",
+        "/jsoneditor-icons.94cc300788573d38.svg"
+      ],
+      "patterns": []
+    }
+  ],
+  "dataGroups": [],
+  "hashTable": {
+    "/assets/3steps_to_mint.jpg": "578a5eb443d5dcf4cf425cdf04fad061f25e885a",
+    "/assets/coin.png": "5009382dff3a6389b0efee7ba258f6aa2d4776c7",
+    "/assets/logo.png": "fb918726ee2e78866a5a67363bbf077558c7b950",
+    "/assets/nftnow_icon_128.png": "1f659b54ce26485cac37cdaf556835219ec1fc77",
+    "/assets/nftnow_icon_256.png": "d6e49e913828f4f63a1ccbfe4ce4715f45afc57f",
+    "/assets/nftnow_icon_32.png": "1becc3b6f6c706df8d982ae690f6d0f9282b8baf",
+    "/assets/nftnow_icon_512.png": "fb918726ee2e78866a5a67363bbf077558c7b950",
+    "/assets/nftnow_icon_64.png": "e5b6b369f7420b572381a66a1e8a05ba4f49dbf7",
+    "/assets/titre_appli.png": "da4cb6f4d11285dac81c3d65549b21f683a61062",
+    "/assets/titre_appli_devnet.png": "438ae3b8ddefd0e6f7ba1b246359745eff6de5de",
+    "/assets/titre_appli_testnet.png": "962d08326eabc81abd0c5d79eba9936df690713c",
+    "/favicon.ico": "1f659b54ce26485cac37cdaf556835219ec1fc77",
+    "/index.html": "71c82c96f942a96ed237e0f4c07326e322628d87",
+    "/jsoneditor-icons.94cc300788573d38.svg": "ab494ea3944f654d927ce67bc0b515de6c84d836",
+    "/main.dddbf622e7c186d8.js": "fbc9b356aece6ee06549e268196e385bf2b02879",
+    "/manifest.webmanifest": "85e1ad56170d8556371c75eb58b5ee7c8ff3190c",
+    "/node_modules_angular_animations_fesm2022_browser_mjs.a2777384aceb60a0.js": "d21ca9c8fa15d821a7a756db60ec135ea41ecedb",
+    "/node_modules_noble_curves_esm_secp256k1_js.8c6d273f8527b6e6.js": "cf4a456770ecf3595c5f66ae48b25cf8f59e787c",
+    "/polyfills.cbd7665b5a6e65be.js": "33d428f7529bea99b741e9f85f43869f756ecb30",
+    "/runtime.f73681d455d1285e.js": "84c5727f9f373baadc47d3228a7e52eeadcf8046",
+    "/styles.4c8a14933cfe7d40.css": "d42580a484e993dab9c2706c56774d9f4f88b21f",
+    "/vendor.be8046d66b55b451.js": "c4fc04b820994bf9b01dbef3a30788c2df82ec11"
+  },
+  "navigationUrls": [
+    {
+      "positive": true,
+      "regex": "^\\/.*$"
+    },
+    {
+      "positive": false,
+      "regex": "^\\/(?:.+\\/)?[^/]*\\.[^/]*$"
+    },
+    {
+      "positive": false,
+      "regex": "^\\/(?:.+\\/)?[^/]*__[^/]*$"
+    },
+    {
+      "positive": false,
+      "regex": "^\\/(?:.+\\/)?[^/]*__[^/]*\\/.*$"
+    }
+  ],
+  "navigationRequestStrategy": "performance"
+}
